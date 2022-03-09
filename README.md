@@ -27,7 +27,7 @@ and Nodejs
 
 
 [<img align="left" alt=""
-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=forthe-badge&logo=twitter&logoColor=white" />]
+src="https://img.shields.io/badge/instagram-this is instagram&logoColor=blue" />]
 (https://twitter.com/Mohamma88766694)
 
 [<img align="left" alt="Instagram"
@@ -56,8 +56,7 @@ src="https://img.shields.io/badge/spring%20-%236DB33F.svg?
 &style=for-the-badge&logo=spring&logoColor=white" />
 
 <img align="left" alt="Javascript"
-src="https://img.shields.io/badge/spring%20-%236DB33F.svg?
-&style=for-the-badge&logo=spring&logoColor=white" />
+src="https://img.shields.io/badge/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="bash"
 src="https://img.shields.io/badge/spring%20-%236DB33F.svg?
