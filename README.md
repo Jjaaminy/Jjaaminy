@@ -26,7 +26,7 @@ and Nodejs
 ## Connect with me
 
 [<img align="left" alt="twitter"
-src="https://img.shields.io/twitter/url?style=social" />]
+src="https://img.shields.io/instagram/url?style=Twitter" />]
 (https://twitter.com/Mohamma88766694)
 
 
