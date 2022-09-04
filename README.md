@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### HI THERE! 
 ### I am Jaaminy and I am a IMS Student😄 
 - 👨‍💻 currently learning the basics of many programming languages
 - ⚡In my free time I like to draw, dance and do fun things with my friends
@@ -23,8 +22,8 @@ Here are some ideas to get you started:
 
 
 ### Connect with me
-"[<img align="left" alt="instagram"
-src="https://img.shields.io/endpoint?label=instagram&logo=instagram&url=https%3A%2F%2Fwww.bing.com%2Fimages%2Fsearch%3Fview%3DdetailV2%26ccid%3D33zGKWSM%26id%3D8DC5F6340F18E6EC90231831D93A6DDB8C3ADA28%26thid%3DOIP.33zGKWSM37gKuCmK4b20LQHaHa%26mediaurl%3Dhttps%253a%252f%252flibrary.kissclipart.com%252f20190202%252fobw%252fkissclipart-instagram-clipart-instagram-font-76bdac439c07df99.png%26cdnurl%3Dhttps%253a%252f%252fth.bing.com%252fth%252fid%252fR.df7cc629648cdfb80ab8298ae1bdb42d%253frik%253dKNo6jNttOtkxGA%2526pid%253dImgRaw%2526r%253d0%26exph%3D900%26expw%3D900%26q%3Dinstagram%2Blogo%26simid%3D608037193178431525%26FORM%3DIRPRST%26ck%3DBCE99EF4FC46AA5FA035F5DC9EB0E2BD%26selectedIndex%3D77" />]
+![instagram](https://img.shields.io/badge/Instagram-563D7C?style=for-the-badge&logo=instagram&logoColor=black)
+
 <br>
 <br>
 
