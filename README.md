@@ -31,10 +31,14 @@ src="https://img.shields.io/endpoint?label=instagram&logo=instagram&url=https%3A
 
 ### Languages
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<img align="left" alt="react"
-src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=forthe-badge&logo=react&logoColor=%2361DAFB" />
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <img align="left" alt="nodejs"
 src="https://img.shields.io/badge/node.js%20-%2343853D.svg?
@@ -43,13 +47,6 @@ src="https://img.shields.io/badge/node.js%20-%2343853D.svg?
 <img align="left" alt="Spring boot"
 src="https://img.shields.io/badge/spring%20-%236DB33F.svg?
 &style=for-the-badge&logo=spring&logoColor=white" />
-
-<img align="left" alt="Java"
-src="https://img.shields.io/badge/spring%20-%236DB33F.svg?
-&style=for-the-badge&logo=spring&logoColor=white" />
-
-<img align="left" alt="Javascript"
-src="https://img.shields.io/badge/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="bash"
 src="https://img.shields.io/badge/spring%20-%236DB33F.svg?
