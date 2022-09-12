@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Jaaminy and I am a IMS Student😄 
+### I am Jaaminy and I am an IMS Student😄 
 - 👨‍💻 currently learning the basics of many programming languages
 - ⚡In my free time I like to draw, dance and do fun things with my friends
 <br>
