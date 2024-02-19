@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **Jjaaminy/Jjaaminy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Jaaminy and I am an IMS Student😄 
-- 👨‍💻 currently learning the basics of many programming languages
-- ⚡In my free time I like to draw, dance and do fun things with my friends
+### My name is Jaaminy,  and currently I am an IMS Student studying in Winterthur😄 
+- 👨‍💻  I'm currently in the process of learning the fundamentals of several programming languages
+- ⚡  In my spare time, I enjoy drawing, dancing, and having fun with my friends.
 <br>
 
 
