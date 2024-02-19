@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/Jjaaminy/Jjaaminy/assets/100757825/304af7c7-9d6e-493c-ae20-ea1327153d90)
 <h1 align="center">Hi 👋, I'm Jaaminy</h1>
 <h3 align="center">currently I am an IMS Student studying in Winterthur😄</h3>
 </br>
