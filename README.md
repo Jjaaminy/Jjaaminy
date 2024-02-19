@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Jaaminy</h1>
 <h3 align="center">currently I am an IMS Student studying in Winterthur😄</h3>
 </br>
-<img align="right" style="margin-right:30" width="460" height="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/> 
+</br>
+<img align="right" width="460" height="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/> 
 <p align="left"> 👨‍💻 I'm currently in the process of learning the fundamentals of several programming languages 👨‍💻 </p>
 <p align="left"> ⚡ In my spare time, I enjoy drawing, dancing, and having fun with my friends. ⚡ </p>
 </p>
